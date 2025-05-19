@@ -1,7 +1,15 @@
-@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..1000&family=Uncial+Antiqua&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&family=Uncial+Antiqua&display=swap");
+
+/* ---------------------- Colours */
+.bg-color-name-title {
+    background-color: #778899;
+}
+
+/* ---------------------- Heading */
 
 header {
     margin: 0px;
+    margin-left: 50px;
 }
 
 .logo {
@@ -12,4 +20,21 @@ header {
     min-height: 360px;
     transition: all .5s ease-in-out;
 
+}
+
+.name {
+    font-family:  "Uncial Antiqua", system-ui;
+    font-weight: 300;
+    font-size: 60px;
+    margin-top: 50px;
+    color: #FFFFF0;
+}
+
+.strap-line {
+    font-family: "Quicksand", serif;
+    font-weight: 500;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    color: #FFFFF0;
 }
