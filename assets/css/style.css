@@ -1,5 +1,15 @@
-body {
-    font-family:'Courier New', Courier, monospace;
-    color: #000000;
-    background-color: #00DD99;
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..1000&family=Uncial+Antiqua&display=swap");
+
+header {
+    margin: 0px;
+}
+
+.logo {
+    background: url("../images/beach-view.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    transition: all .5s ease-in-out;
+
 }
