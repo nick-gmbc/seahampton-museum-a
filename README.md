@@ -16,5 +16,10 @@ Provide a clean intuitive website that gives potential visitors information abou
 
 # User story
 ## Potential visitor
+1. Find the website quicky on Google or Bing
 1. To be able to find the location of the museum and its opening times as soon as I load the website
 1. To be able to get a good idea of what is available at the museum so I can decide whether or not to visit and how long to allow.
+
+# Wirefames
+
+![Index page dektop](/assets/images/wireframemueum.drawio.png)
