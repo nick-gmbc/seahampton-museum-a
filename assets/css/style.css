@@ -1,5 +1,17 @@
 @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&family=Uncial+Antiqua&display=swap");
 
+/* ---------------------- Special paddings/margins/text */
+
+h1, h2, h3, h4 {
+    margin: 0px;
+}
+
+.general-sub {
+    font-family: "Quicksand", serif;
+    font-weight: 300px;
+    color: #006994;
+}
+
 /* ---------------------- Colours */
 .bg-color-name-title {
     background-color: #778899;
@@ -107,4 +119,12 @@ header {
 .hvr-sweep-to-bottom:before {
     background: rgba(0,0,0,0.2);
     height: 80px;
+}
+
+footer {
+    margin: 0px;
+    margin-left: 50px;
+    background-color: #E0F7F4;
+    color: #fffff0;
+    min-height: 120px;
 }
