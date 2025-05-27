@@ -160,3 +160,29 @@ footer {
 .contact-list li {
     display:inline-block;
 }
+
+.social-links {
+    padding-bottom: 15px;
+}
+
+.social-links li a i {
+    width:42px;
+    height:42px;
+    padding: 12px;
+    border-radius: 50%;
+    font-size: 18px;
+    line-height: 18px;
+    text-align: center;
+    color: #006994;
+    background: #fffff0;
+    transition: 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background-color: #9999FF;
+    font-size: 22px;
+}
+
+#footer-details {
+    padding: 20px;
+}
