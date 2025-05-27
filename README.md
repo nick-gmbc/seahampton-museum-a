@@ -23,3 +23,23 @@ Provide a clean intuitive website that gives potential visitors information abou
 # Wirefames
 
 ![Index page dektop](/assets/images/wireframemueum.drawio.png)
+
+..... Lots of other stuff
+
+# Testing
+
+## Test Case 1
+### User story
+The user wants to see what events are on at the museum over the next month
+
+### Expected
+When the users clicks on the "Whats on link" from the home page the page of future events loads
+
+Next month's events at the top of the page
+
+### Result
+The site loaded the Whats's On page (whats.html)
+
+[Note to fix as in worked]
+
+[Before and after image]
