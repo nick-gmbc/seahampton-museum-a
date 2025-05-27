@@ -128,3 +128,35 @@ footer {
     color: #fffff0;
     min-height: 120px;
 }
+
+.contact-list {
+  list-style-type: none;
+  margin: 0px;
+  color: #006994;
+  padding: 0px;
+  display:inline;
+}
+
+.contact-list a {
+    text-decoration: none;
+    color: #006994;
+}
+
+.copyright-notice {
+  margin: 0px;
+  color: #006994;
+  padding: 0px;
+}
+
+.copyright-notice a {    
+    text-decoration: none;
+    color: #006994;
+}
+
+.image-right {
+    float: right;
+}
+
+.contact-list li {
+    display:inline-block;
+}
